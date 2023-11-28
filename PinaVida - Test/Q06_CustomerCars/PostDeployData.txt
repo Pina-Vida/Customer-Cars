@@ -1,0 +1,75 @@
+########## Customers #########
+FistName: Johan
+LastName: Goosen
+IdNumber: 0201128517087	
+
+FistName: Simon
+LastName: Miles
+IdNumber: 0202028604181	
+
+FistName: Jones
+LastName: Jack
+IdNumber: 8012027238085	
+
+FistName: David
+LastName: Levey
+IdNumber: 8807027796184	
+
+FistName: Jack
+LastName: Leo
+IdNumber: 9205107945087
+
+########## Cars #########
+Model: Toyota Hilux
+RetailValue: R799 000
+DateManufactured: 2021
+TopSpeed: 179
+
+Model: BMW 123!
+RetailValue: R910 000
+DateManufactured: 2023
+TopSpeed: 210
+
+Model: Ford Ranger
+RetailValue: R810 000
+DateManufactured: 2022
+TopSpeed: 181
+
+Model: Toyota Carola
+RetailValue: R35 000
+DateManufactured: 1999
+TopSpeed: 130
+
+Model: Ford Figo
+RetailValue: R433 000
+DateManufactured: 2015
+TopSpeed: 164
+
+Model: Chevy Spark
+RetailValue: R190 000
+DateManufactured: 2011
+TopSpeed: 112
+
+Model: GWM Double CAB
+RetailValue: R320 000
+DateManufactured: 2018
+TopSpeed: 125
+
+
+########## CustomerCars #########
+
+Johan	: Toyota Hilux
+		: BMW 123!
+
+Simon	: Toyota Hilux
+		: Ford Figo
+		: GWM Double CAB
+
+Jones	: Ford Ranger
+		: Ford Figo
+		: Chevy Spark
+
+David	: GWM Double CAB
+		: Toyota Carola
+
+Jack	: Chevy Spark
